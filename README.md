@@ -2,6 +2,10 @@
 
 Um aplicativo web simples para análise de números. Os usuários podem adicionar números entre 1 e 100 e obter estatísticas como maior número, menor número, soma total e média dos valores.
 
+<div>
+  <img align="center" src="https://cdn.discordapp.com/attachments/856361599312592936/1144182453506953306/Design_sem_nome.gif"
+</div>
+
 ## Tecnologias Utilizadas
 
 - HTML
